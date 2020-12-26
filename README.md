@@ -1,24 +1,5 @@
-# README
+# Rails Stripe Paypal Integration Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This rails app shows how to integrate Stripe & Paypal Payment integration in your e-commerce web app. This app created for learning purpose and inspired by following blog.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.toptal.com/ruby-on-rails/ruby-on-rails-ecommerce-tutorial
